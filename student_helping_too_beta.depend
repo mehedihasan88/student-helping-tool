@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1564238281 source:d:\45\dhm\student_helping_too_beta\main.cpp
+	<bits/stdc++.h>
+	"class_note.h"
+	"common.h"
+	"calculator.h"
+
+1564182609 d:\45\dhm\student_helping_too_beta\class_note.h
+
+1558144464 d:\45\dhm\student_helping_too_beta\common.h
+	<bits/stdc++.h>
+
+1558204024 d:\45\dhm\student_helping_too_beta\calculator.h
+
+1564181603 source:d:\45\dhm\student_helping_too_beta\calculator.cpp
+	<bits/stdc++.h>
+	"calculator.h"
+
+1564238316 source:d:\45\dhm\student_helping_too_beta\class_note.cpp
+	<bits/stdc++.h>
+	"class_note.h"
+	"common.h"
+
+1564181603 source:e:\projectarchive\student_helping_too_beta(c++)\calculator.cpp
+	<bits/stdc++.h>
+	"calculator.h"
+
+1558204024 e:\projectarchive\student_helping_too_beta(c++)\calculator.h
+
+1564238316 source:e:\projectarchive\student_helping_too_beta(c++)\class_note.cpp
+	<bits/stdc++.h>
+	"class_note.h"
+	"common.h"
+
+1564182609 e:\projectarchive\student_helping_too_beta(c++)\class_note.h
+
+1558144464 e:\projectarchive\student_helping_too_beta(c++)\common.h
+	<bits/stdc++.h>
+
